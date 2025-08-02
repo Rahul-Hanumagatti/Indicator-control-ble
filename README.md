@@ -38,13 +38,13 @@ This project implements an automotive indicator control system using BLE. The ap
 
 ## 🎥 Video Demo
 
-📎 [Link to Video Demo](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+https://drive.google.com/drive/folders/1rYiJcQcSQh3aS49DzESutu-J2UpIoF9x
 
 ---
 
 ## 📄 UART Log
 
-📎 [Link to UART Log (if available)](PASTE_YOUR_UART_LOG_LINK_HERE)
+UART logs were not captured in this prototype. UART logging logic is implemented in the code.
 
 ---
 
